@@ -1,0 +1,8 @@
+pymupdf
+sqlalchemy
+pytesseract
+Pillow
+fastapi
+uvicorn[standard]
+python-multipart
+

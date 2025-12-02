@@ -1,28 +1,40 @@
+# src/ingestion/pdf_loader.py
+
 import fitz  # PyMuPDF
+from dataclasses import dataclass
+from typing import List
+
+
+@dataclass
+class PageText:
+    page_number: int
+    text: str
+
 
 class PDFLoader:
     """
-    โหลด PDF และดึงข้อความทีละหน้าออกมา
-    คืนค่าเป็น list ของหน้า พร้อมข้อมูลพื้นฐาน
+    โหลดไฟล์ PDF แล้วดึงข้อความออกมาเป็นรายหน้า
     """
 
-    @staticmethod
-    def load_pdf(path: str):
+    def load(self, path: str) -> List[PageText]:
         try:
             doc = fitz.open(path)
         except Exception as e:
-            raise RuntimeError(f"ไม่สามารถโหลดไฟล์ PDF: {path} — {e}")
+            raise RuntimeError(f"ไม่สามารถเปิดไฟล์ PDF ได้: {path} ({e})")
 
-        pages = []
+        pages: List[PageText] = []
 
-        for page_number in range(len(doc)):
-            page = doc.load_page(page_number)
-            text = page.get_text("text")
+        for i in range(len(doc)):
+            page = doc.load_page(i)
+            text = page.get_text("text") or ""
+            text = text.strip()
 
-            pages.append({
-                "page": page_number + 1,
-                "text": text.strip()
-            })
+            pages.append(
+                PageText(
+                    page_number=i + 1,
+                    text=text,
+                )
+            )
 
         doc.close()
         return pages
@@ -30,9 +42,12 @@ class PDFLoader:
 
 if __name__ == "__main__":
     loader = PDFLoader()
-    pdf_path = "../../data/samples/sample_v1.pdf"  # เปลี่ยนตามไฟล์จริง
-    pages = loader.load_pdf(pdf_path)
+    # 👇 แก้ path ให้ตรงกับไฟล์จริงของคุณ
+    pdf_path = "data/samples/17087276-3.pdf"
 
-    print(f"โหลด {len(pages)} หน้า")
+    pages = loader.load(pdf_path)
+
+    print(f"โหลดได้ {len(pages)} หน้า")
     for p in pages:
-        print(f"\n=== Page {p['page']} ===\n{p['text'][:200]}...")
+        print(f"\n=== Page {p.page_number} ===")
+        print(p.text[:400].replace("\n", " ") + "...")

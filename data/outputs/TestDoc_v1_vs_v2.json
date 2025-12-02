@@ -1,0 +1,370 @@
+{
+  "document_name": "TestDoc",
+  "version_old": "v1",
+  "version_new": "v2",
+  "overall_risk_level": "LOW",
+  "summary_text": "โดยรวมมีการเปลี่ยนแปลงจำนวน 60 รายการ (เพิ่ม 0 รายการ, ลบ 60 รายการ, แก้ไข 0 รายการ)",
+  "changes": [
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "Tususaanisanw?\nAus MErArdndinaluladuasznrsinwAs unvanerauswaAgesat",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "ry",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "anvrderanernrsnauiianosuazimaluladadna",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "FA acts\nGovios wwuvsurstanisindu (s,m)\nVaccintion Management System",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "ganwi wdrlyartu sales siausesamainainw? 406559022",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "vag Y a Py\nVia dnudiflatunrsarreaouuavoyslabiidudounilsvosnrsAinyierasse",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "FnsrnrsAoutiamaduarinaluladaiva maumadngasinermansvautin aruvine nrsAaNWana suas",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "dane ry",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "maluladaaia mageuit 1 UnisAnw 2568",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "NIIUNITADU",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "(dhumansasddauue dsiny)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "ee A ELEY:",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "sessesseesssssseeef IMAITAOU",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "(fdawmrannersd976 ylundunina)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 51",
+      "old_text": "43",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 52",
+      "old_text": "DMBUININ\n(ornnstiqdeunu inalay)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 52",
+      "old_text": "ye",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 52",
+      "old_text": "_Usesundngasinernsaauiiana’",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 52",
+      "old_text": "(oraradduqaiare VIN)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 52",
+      "old_text": "44",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "45",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "(uuu 2A-1)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "uuuwasnaualasesuinernrsnounianes\nanuvaurinernrsnouiianes",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "anusinenaraniimaluladuasnrsinuas unvineraurrvagesa",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "wad ry\nTUM... NOU...",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "Gao aualasewinuimsrauiinnes",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "Bou orsdusedtinlasanwineimsaoniianes",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "meted Y Avxanvlu OAS: swtavinfinwn 406957.2.2.2.",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "Mhanwaviquqnad arvrieinermsnaniiames au merenandinaluladuarnrainyas flan",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "Usvasdiauolassswinernisnautiame’ as",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "(awilne)\n(nrwranqu) :\nTouil wef DAu2. S64 Aauduersdtusnw Meiilduuuswasiualasoonandawudr",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 53",
+      "old_text": "2.4 a a\nFaGeunniolusaviaisan",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 54",
+      "old_text": "(wuu 2A-1)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 54",
+      "old_text": "anumatuawsenvinw\n49% pas arSMer OMA 407 /TKO",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 54",
+      "old_text": "ANUAN..\n(2%, Sotane Dyers»)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 54",
+      "old_text": "anuiiuvasia19158 “avin\nayy\n© bioygin",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 54",
+      "old_text": "46",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "47",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "aaavin",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "IND",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "(aa-3)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "= ous ‘ = 3\nmisradufinnnidianth siiaF07. ECS 6... PoFmIasaawInermrsAoyhiae; ...... Pmrsfinw.&.0282",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "= 2. s ea\naruAaiu(e.fuv3nw1) awisu awisU oO.",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "onvinw | usei1I0",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "Wuy_use tra: ER dlartan",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "A woarI'sne sy eo",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "es z & (a\nYabo _Uxui Dee tgowI Airy Mu",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "< eA",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "low Dudyiy us dru",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "Wry plow sry byte :\nJu Lu oy 214 O686N You? IY",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "1/10fG",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "1@ ih) fain 74 wre now Wudy\n: Le\nSuU_W4) 04 N0689",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "FY Vin vx W614",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "4a",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "Vd",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "My sw. Eo arom so",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "bw. Eon\nri 1 @\ndary SW. EH 9 Tivo tu",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "6] are evo ng wae ua lxustin",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "FU NU. NOU 662)",
+      "new_text": null
+    },
+    {
+      "change_type": "REMOVED",
+      "section_label": "page 55",
+      "old_text": "divans oh rane guuugd 6etaa",
+      "new_text": null
+    }
+  ],
+  "generated_at": "2025-12-02T09:53:55.256932"
+}
